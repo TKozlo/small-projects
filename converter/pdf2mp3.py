@@ -1,5 +1,4 @@
 from gtts import gTTS
-from art import tprint
 import pdfplumber
 from pathlib import Path
 
